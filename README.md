@@ -3,14 +3,15 @@ It includes Automation with npm + Docker image
 
 Tech in this boilerplate(Js)
 ## Frontend:
-React
-React Router
-axios
+- React
+- React Router
+- axios
 ## Backend
-Express
-Mongoose
-dotenv
-cors
-pm2 
-nodemon
-jest
+- Express
+- Mongoose
+- dotenv
+- cors
+- axios
+- pm2 
+- nodemon
+- jest with super test
